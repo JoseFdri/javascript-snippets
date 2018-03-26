@@ -1,7 +1,7 @@
 # javascript-snippets
 Snippets for Javascript
 
-#Poner comas a un numero
+#Poner comas a un número
 ```
 var poner_comas = function (numero) {
     numero += ''
